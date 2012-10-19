@@ -1,3 +1,10 @@
+Pidgin-gntp is a cool plugin, but it hasn't been updated for 3 years. I'm having major performance issues with it.
+I'm certainly not a very good coder, but I am somewhat familiar with C, so I'm going to see if I can figure out the
+source code and fix the performance issues. 
+
+
+Original readme describing how to build it:
+
 Requires pidgin source to build.
 http://developer.pidgin.im/wiki/Installing%20Pidgin#Compiling
 
